@@ -3,8 +3,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-#%matplotlib inline
-#%config InlineBackend.figure_format = 'retina'
+%matplotlib inline
+%config InlineBackend.figure_format = 'retina'
 import warnings
 warnings.filterwarnings('ignore')
 
